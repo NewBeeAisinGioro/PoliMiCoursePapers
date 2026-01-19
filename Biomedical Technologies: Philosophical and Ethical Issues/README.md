@@ -25,4 +25,4 @@ Individual essay (100% grade):
 - write an essay of max 4000 words
 <br></br>
 
-The topic of my essay is about the medicalisation and de-medicalisation of homosexuality, which mainly applies the conceptual tool of value-ladeness.
+The topic of my essay is about the medicalisation and de-medicalisation of homosexuality, and I mainly apply the conceptual tool of value-ladeness.
