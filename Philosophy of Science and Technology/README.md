@@ -1,4 +1,4 @@
-# Philosophy of Science and Technology<br></br>
+# Philosophy of Science and Technology
 ### Papers for this course are quite easy to write. I got 28/30L for this course finally.<br></br>
 The topics of the assigned essays are described here below:
 
